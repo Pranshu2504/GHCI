@@ -1,0 +1,129 @@
+{
+  "Bills & Utilities": {
+    "precision": 1.0,
+    "recall": 0.9247311827956989,
+    "f1-score": 0.9608938547486033,
+    "support": 186.0
+  },
+  "Business & Work": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 338.0
+  },
+  "Education & Childcare": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 43.0
+  },
+  "Entertainment": {
+    "precision": 0.9337979094076655,
+    "recall": 0.9962825278810409,
+    "f1-score": 0.9640287769784173,
+    "support": 269.0
+  },
+  "Essentials": {
+    "precision": 0.9953917050691244,
+    "recall": 1.0,
+    "f1-score": 0.9976905311778291,
+    "support": 432.0
+  },
+  "Financial Services": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 301.0
+  },
+  "Food & Drinks": {
+    "precision": 1.0,
+    "recall": 0.9980732177263969,
+    "f1-score": 0.9990356798457087,
+    "support": 2595.0
+  },
+  "Government & Compliance": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Health & Wellness": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8.0
+  },
+  "Healthcare": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11.0
+  },
+  "Housing & Utilities": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26.0
+  },
+  "Income": {
+    "precision": 0.9180761099365751,
+    "recall": 0.9254128929142248,
+    "f1-score": 0.9217299018307243,
+    "support": 1877.0
+  },
+  "Medical": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17.0
+  },
+  "Miscellaneous": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 219.0
+  },
+  "Personal Care": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32.0
+  },
+  "Shopping": {
+    "precision": 0.9676113360323887,
+    "recall": 0.9835390946502057,
+    "f1-score": 0.9755102040816327,
+    "support": 243.0
+  },
+  "Transfers": {
+    "precision": 0.9585687382297552,
+    "recall": 0.9522918615528532,
+    "f1-score": 0.9554199906147348,
+    "support": 3207.0
+  },
+  "Transportation": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 141.0
+  },
+  "Travel & Holidays": {
+    "precision": 0.9803921568627451,
+    "recall": 1.0,
+    "f1-score": 0.9900990099009901,
+    "support": 50.0
+  },
+  "accuracy": 0.9683,
+  "macro avg": {
+    "precision": 0.9870441029230661,
+    "recall": 0.988438461974759,
+    "f1-score": 0.9876004183778232,
+    "support": 10000.0
+  },
+  "weighted avg": {
+    "precision": 0.9684708818573309,
+    "recall": 0.9683,
+    "f1-score": 0.9683222762383481,
+    "support": 10000.0
+  }
+}

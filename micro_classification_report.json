@@ -1,0 +1,543 @@
+{
+  "Apparel & Footwear": {
+    "precision": 1.0,
+    "recall": 0.9743589743589743,
+    "f1-score": 0.987012987012987,
+    "support": 39.0
+  },
+  "Bank Charges & Fees": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10.0
+  },
+  "Beauty & Cosmetic Products": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 25.0
+  },
+  "Books & Stationery": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Broadband & Internet": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7.0
+  },
+  "Cafes & Beverages": {
+    "precision": 0.996244131455399,
+    "recall": 0.9860594795539034,
+    "f1-score": 0.9911256422232602,
+    "support": 1076.0
+  },
+  "Cashback": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Dairy&Bakery": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 71.0
+  },
+  "Diagnostics & Labs": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Donations & Charity": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "Drinks": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Drinks & Liquor": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 31.0
+  },
+  "E-Commerce Marketplaces": {
+    "precision": 0.9873417721518988,
+    "recall": 0.9512195121951219,
+    "f1-score": 0.968944099378882,
+    "support": 82.0
+  },
+  "E-commerce Marketplaces": {
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1-score": 0.8888888888888888,
+    "support": 4.0
+  },
+  "Electrical Goods & Appliances": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4.0
+  },
+  "Electricity & Energy": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Electricity Bill Payment": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Electronics & Appliances": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 15.0
+  },
+  "Entertainment Store": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "FASTag & Toll": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Fitness & Wellness": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Flights": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2.0
+  },
+  "Food Delivery": {
+    "precision": 0.989041095890411,
+    "recall": 0.9652406417112299,
+    "f1-score": 0.9769959404600812,
+    "support": 374.0
+  },
+  "Fuel": {
+    "precision": 0.9384615384615385,
+    "recall": 0.9682539682539683,
+    "f1-score": 0.953125,
+    "support": 63.0
+  },
+  "Gaming": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7.0
+  },
+  "General Retail Stores": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 64.0
+  },
+  "Google Play Subscription": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7.0
+  },
+  "Groceries & Daily Needs": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Groceries&Daily Needs": {
+    "precision": 0.9916201117318436,
+    "recall": 1.0,
+    "f1-score": 0.9957924263674615,
+    "support": 355.0
+  },
+  "Grocesries&Daily Needs": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4.0
+  },
+  "Hobbies & Clubs": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Hospital Services": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Hostel & Stays": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10.0
+  },
+  "Hostel/Mess Fees": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7.0
+  },
+  "Hotels & Stays": {
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.9230769230769231,
+    "support": 7.0
+  },
+  "Ice Cream Parlour": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "Insurance-Non Health": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "Investments": {
+    "precision": 1.0,
+    "recall": 0.9841897233201581,
+    "f1-score": 0.9920318725099602,
+    "support": 253.0
+  },
+  "Investments/Financial Services": {
+    "precision": 0.5555555555555556,
+    "recall": 1.0,
+    "f1-score": 0.7142857142857143,
+    "support": 5.0
+  },
+  "Jewelry & Accessories": {
+    "precision": 0.782608695652174,
+    "recall": 1.0,
+    "f1-score": 0.8780487804878049,
+    "support": 18.0
+  },
+  "Kirana Shops": {
+    "precision": 0.3333333333333333,
+    "recall": 0.2,
+    "f1-score": 0.25,
+    "support": 5.0
+  },
+  "Loan Emi-Non Home": {
+    "precision": 1.0,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9565217391304348,
+    "support": 12.0
+  },
+  "Loan-Emi-Non Home": {
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9565217391304348,
+    "support": 11.0
+  },
+  "Local Travel Services": {
+    "precision": 0.9736842105263158,
+    "recall": 1.0,
+    "f1-score": 0.9866666666666667,
+    "support": 37.0
+  },
+  "Logistics & Courier Services": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1-score": 0.75,
+    "support": 8.0
+  },
+  "Logistics & Delivery Services": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 4.0
+  },
+  "Maintenance & Repairs": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4.0
+  },
+  "Medical Supplies": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Medical Supplies & Equipment": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Mobile & DTH Recharges": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "Mobile Recharge": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 132.0
+  },
+  "Mobile Services & Subscriptions": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11.0
+  },
+  "Monastery/Temple Donations": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Movies & Evens": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 2.0
+  },
+  "Movies & Events": {
+    "precision": 1.0,
+    "recall": 0.9230769230769231,
+    "f1-score": 0.96,
+    "support": 39.0
+  },
+  "OTT & Subscription": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8.0
+  },
+  "OTT & Subscriptions": {
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9565217391304348,
+    "support": 209.0
+  },
+  "Official Fees": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Online Course Subscription": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Online Learning & EdTech": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "P2P Income": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 6.0
+  },
+  "P2P Transfer": {
+    "precision": 0.9988099960333201,
+    "recall": 0.9998014691284495,
+    "f1-score": 0.9993054866554222,
+    "support": 5037.0
+  },
+  "Pharmacies-Medicines": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Pharmacy": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9.0
+  },
+  "Pharmacy & Medicines": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "Public Transport": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21.0
+  },
+  "Received Payment": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10.0
+  },
+  "Refund": {
+    "precision": 0.7857142857142857,
+    "recall": 0.5,
+    "f1-score": 0.6111111111111112,
+    "support": 22.0
+  },
+  "Rent & Housing Charges": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "Rent&Housing Charges": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Restaurants & Dining": {
+    "precision": 0.97165991902834,
+    "recall": 0.9876543209876543,
+    "f1-score": 0.9795918367346939,
+    "support": 972.0
+  },
+  "Ride-Hailing": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Salon & Grooming": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11.0
+  },
+  "Salon&Grooming": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "School/College Fees": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 28.0
+  },
+  "Street Food": {
+    "precision": 0.9689922480620154,
+    "recall": 0.9765625,
+    "f1-score": 0.9727626459143969,
+    "support": 128.0
+  },
+  "Subscription Services": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Tools & Software": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 131.0
+  },
+  "Unknown Merchant": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 205.0
+  },
+  "Unknown Service": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "Unknown merchant": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10.0
+  },
+  "Unknown service": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "Utility Bill Payment": {
+    "precision": 1.0,
+    "recall": 0.4,
+    "f1-score": 0.5714285714285714,
+    "support": 5.0
+  },
+  "Utility Bill Payments": {
+    "precision": 0.6875,
+    "recall": 1.0,
+    "f1-score": 0.8148148148148148,
+    "support": 11.0
+  },
+  "Vehicle& Services": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 38.0
+  },
+  "Vendor/Supplier Payments": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 190.0
+  },
+  "Vendor/Supplier Supplies": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "Wallet Loads & Top-ups": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5.0
+  },
+  "accuracy": 0.9898,
+  "macro avg": {
+    "precision": 0.9205746237908685,
+    "recall": 0.9214798526863173,
+    "f1-score": 0.9150573956350582,
+    "support": 10000.0
+  },
+  "weighted avg": {
+    "precision": 0.9887066627322051,
+    "recall": 0.9898,
+    "f1-score": 0.9888640031587554,
+    "support": 10000.0
+  }
+}
