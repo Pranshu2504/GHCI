@@ -1,0 +1,178 @@
+macro_categories:
+  - Transfers
+  - Food & Drinks
+  - Income
+  - Essentials
+  - Business & Work
+  - Financial Services
+  - Entertainment
+  - Shopping
+  - Miscellaneous
+  - Bills & Utilities
+  - Transportation
+  - Travel & Holidays
+  - Education & Childcare
+  - Personal Care
+  - Housing & Utilities
+  - Medical
+  - Healthcare
+  - Health & Wellness
+  - Government & Compliance
+
+micro_categories:
+
+  Transfers:
+    - P2P Transfer
+    - Wallet Loads & Top-ups
+    - Refund
+    - Received Payment
+    - Cashback
+    - unknown
+
+  Food & Drinks:
+    - Cafes & Beverages
+    - Street Food
+    - Restaurants & Dining
+    - Drinks & Liquor
+    - Food Delivery
+    - Dairy&Bakery
+    - Groceries & Daily Needs
+    - Groceries&Daily Needs
+    - Grocesries&Daily Needs
+    - Drinks
+    - Ice Cream Parlour
+    - unknown
+
+  Income:
+    - P2P Income
+    - Received Payment
+    - unknown
+
+  Essentials:
+    - Groceries & Daily Needs
+    - Groceries&Daily Needs
+    - Grocesries&Daily Needs
+    - Kirana Shops
+    - Dairy&Bakery
+    - unknown
+
+  Business & Work:
+    - Vendor/Supplier Payments
+    - Vendor/Supplier Supplies
+    - Logistics & Courier Services
+    - Logistics & Delivery Services
+    - Tools & Software
+    - unknown
+
+  Financial Services:
+    - Loan-Emi-Non Home
+    - Loan Emi-Non Home
+    - Investments
+    - Investments/Financial Services
+    - Insurance-Non Health
+    - Bank Charges & Fees
+    - unknown
+
+  Entertainment:
+    - OTT & Subscriptions
+    - OTT & Subscription
+    - Movies & Events
+    - Movies & Evens
+    - Gaming
+    - Google Play Subscription
+    - Entertainment Store
+    - Hobbies & Clubs
+    - unknown
+
+  Shopping:
+    - E-Commerce Marketplaces
+    - E-commerce Marketplaces
+    - Electronics & Appliances
+    - Electrical Goods & Appliances
+    - Apparel & Footwear
+    - Beauty & Cosmetic Products
+    - General Retail Stores
+    - Jewelry & Accessories
+    - Books & Stationery
+    - Subscription Services
+    - unknown
+
+  Miscellaneous:
+    - Unknown Merchant
+    - Unknown merchant
+    - Unknown Service
+    - Unknown service
+    - Donations & Charity
+    - Monastery/Temple Donations
+    - Hobbies & Clubs
+    - unknown
+
+  Bills & Utilities:
+    - Utility Bill Payments
+    - Utility Bill Payment
+    - Electricity Bill Payment
+    - Electricity & Energy
+    - Broadband & Internet
+    - Mobile Recharge
+    - Mobile & DTH Recharges
+    - Mobile Services & Subscriptions
+    - unknown
+
+  Transportation:
+    - Public Transport
+    - Ride-Hailing
+    - Local Travel Services
+    - FASTag & Toll
+    - Vehicle& Services
+    - unknown
+
+  Travel & Holidays:
+    - Flights
+    - Hotels & Stays
+    - Hostel & Stays
+    - Hostel/Mess Fees
+    - unknown
+
+  Education & Childcare:
+    - School/College Fees
+    - Online Course Subscription
+    - Online Learning & EdTech
+    - unknown
+
+  Personal Care:
+    - Salon & Grooming
+    - Salon&Grooming
+    - Beauty & Cosmetic Products
+    - unknown
+
+  Housing & Utilities:
+    - Rent & Housing Charges
+    - Rent&Housing Charges
+    - Maintenance & Repairs
+    - unknown
+
+  Medical:
+    - Medical Supplies & Equipment
+    - Medical Supplies
+    - Hospital Services
+    - Diagnostics & Labs
+    - unknown
+
+  Healthcare:
+    - Pharmacy
+    - Pharmacy & Medicines
+    - Pharmacies-Medicines
+    - Hospital Services
+    - Diagnostics & Labs
+    - Medical Supplies & Equipment
+    - unknown
+
+  Health & Wellness:
+    - Fitness & Wellness
+    - Health & Wellness
+    - unknown
+
+  Government & Compliance:
+    - Official Fees
+    - Government & Compliance
+    - unknown
